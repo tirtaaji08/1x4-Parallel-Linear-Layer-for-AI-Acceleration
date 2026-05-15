@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+E:/Vivado/Fixed_Point_Neuron_Block/Fixed_Point_Neuron_Block.srcs/sources_1/new/Fixed_Point_Multi.v,1778084785,verilog,,E:/Vivado/Linear Layer/Linear Layer.srcs/sources_1/new/linear_layer_1x4.v,,Fixed_Point_Multi,,,C:/AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+E:/Vivado/Fixed_Point_Neuron_Block/Fixed_Point_Neuron_Block.srcs/sources_1/new/neuron_block.v,1778220097,verilog,,E:/Vivado/Linear Layer/Linear Layer.srcs/sim_1/new/tb_linear_layer.v,,neuron_block,,,C:/AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+E:/Vivado/Linear Layer/Linear Layer.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+E:/Vivado/Linear Layer/Linear Layer.srcs/sim_1/new/tb_linear_layer.v,1778866247,verilog,,,,tb_linear_layer,,,C:/AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+E:/Vivado/Linear Layer/Linear Layer.srcs/sources_1/new/linear_layer_1x4.v,1778638862,verilog,,E:/Vivado/Fixed_Point_Neuron_Block/Fixed_Point_Neuron_Block.srcs/sources_1/new/neuron_block.v,,linear_layer_1x4,,,C:/AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
