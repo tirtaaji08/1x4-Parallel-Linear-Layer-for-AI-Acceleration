@@ -1,7 +1,7 @@
 # 1x4-Parallel-Linear-Layer-for-AI-Acceleration
 
 ## Deskripsi Proyek
-Repositori ini, berisi rancangan sebuah lapisan linear (Linear Layer) berukuran 1x4 yang mendemonstrasikan konsep Parallel Processing dan Data Broadcasting pada tingkat perangkat keras (FPGA).
+Repositori ini berisi rancangan sebuah lapisan linear (Linear Layer) berukuran 1x4 yang mendemonstrasikan konsep Parallel Processing dan Data Broadcasting pada tingkat perangkat keras (FPGA).
 
 Desain ini mensimulasikan bagaimana akselerator AI (seperti NPU atau TPU) mengeksekusi banyak operasi Multiply-Accumulate (MAC) secara bersamaan dalam satu siklus clock, jauh lebih efisien dibandingkan pemrosesan sekuensial pada CPU konvensional.
 
